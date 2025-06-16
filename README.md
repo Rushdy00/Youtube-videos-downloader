@@ -29,5 +29,4 @@ pip install pytube
 ```bash
 python downloader.py
 ```
-3. Enter the YouTube video URL when prompted.
-```
+3. Enter the YouTube video URL when prompted
